@@ -1,2 +1,21 @@
-# An-lise-de-N-meros-Negativos
-Desenvolvi aplicação em Java para leitura e armazenamento de múltiplos números inteiros em vetor  Implementei estrutura de repetição para entrada e processamento de dados  Criei regra condicional para identificação e exibição de números negativos  Trabalhei com manipulação de arrays e controle de fluxo 
+# Análise de Números Negativos
+
+## 📌 Descrição
+Aplicação em Java desenvolvida para leitura lembrança e análise de múltiplos números inteiros,
+identificando e exibindo números negativos a partir de um vetor.
+
+## 🛠️ Tecnologias utilizadas
+- Java
+- Vetores (Arrays)
+- Estruturas de repetição
+- Estruturas condicionais
+
+## ▶️ Como executar
+1. Clone o repositório:
+   git clone https://github.com/SEU_USUARIO/Analise-de-Numeros-Negativos
+2. Compile e execute o programa em uma IDE Java ou pelo terminal.
+
+## 📚 Aprendizados
+- Manipulação de arrays
+- Controle de fluxo
+- Entrada e processamento de dados
